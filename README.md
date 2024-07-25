@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @FlyhighAgent
-- 👀 I’m interested in ... learning 
+- 👋 Hi, I’m Ary
+- 👀 I’m interested in ... learning new things
 - 🌱 I’m currently learning ... coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-- 😄 Pronouns: ... she / her
+- 😄 Pronouns: ... she / her / hers
 - ⚡ Fun fact: ... 8
 
 <!---
